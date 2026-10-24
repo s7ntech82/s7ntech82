@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Ideas Workshop</title>
+  <desc id="desc">A restrained green and teal abstract workshop banner with connected nodes.</desc>
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <path d="M0 236C180 174 300 254 470 194S760 86 930 158s164 36 270-18V300H0Z" fill="#eef6f2"/>
+  <path d="M0 262C180 208 336 284 508 220s246-88 402-24 208 36 290-4" fill="none" stroke="#b8d3ca" stroke-width="2"/>
+  <g fill="#2f6f65" opacity=".9"><circle cx="800" cy="92" r="8"/><circle cx="914" cy="168" r="6"/><circle cx="1040" cy="112" r="10"/><circle cx="1108" cy="210" r="5"/></g>
+  <g fill="none" stroke="#b8d3ca" stroke-width="2"><path d="M800 92 914 168 1040 112 1108 210"/><path d="M914 168 1040 244"/></g>
+  <circle cx="1040" cy="244" r="5" fill="#d8cfaa"/>
+  <text x="62" y="92" fill="#1f302f" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">THE IDEAS WORKSHOP</text>
+  <text x="60" y="156" fill="#1f302f" font-family="Arial,sans-serif" font-size="48" font-weight="700">Ideas become systems.</text>
+  <text x="63" y="193" fill="#59716e" font-family="Arial,sans-serif" font-size="18">Full-stack · AI · 3D · storytelling</text>
+  <rect x="62" y="222" width="86" height="3" rx="1.5" fill="#d8cfaa"/>
+</svg>
