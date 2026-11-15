@@ -18,11 +18,11 @@ I turn ideas into digital products, useful tools and interactive worlds.
 
 > I do not start with technology. I start with what needs to become possible, then build the system, experience and narrative that make it usable.
 
-## Workshop map
+## In this profile
 
-[Coordinates](#coordinates) · [Tools in practice](#tools-in-practice) · [Work constellation](#work-constellation) · [Open source](#open-source) · [How an idea becomes a product](#how-an-idea-becomes-a-product) · [What I’m testing](#what-im-testing)
+[What I do](#what-i-do) · [Tools in practice](#tools-in-practice) · [Projects](#projects) · [Open source](#open-source) · [How an idea becomes a product](#how-an-idea-becomes-a-product) · [What I’m testing](#what-im-testing)
 
-## Coordinates
+## What I do
 
 | Area | What I bring to a project |
 | --- | --- |
@@ -38,7 +38,7 @@ I turn ideas into digital products, useful tools and interactive worlds.
 **Shape** - Three.js · WebGL · React Three Fiber · Blender · Unity · immersive experiences  
 **Tell** - storytelling · branding · comics · narrative interfaces
 
-## Work constellation
+## Projects
 
 ### [The Ideas Workshop](https://ismailnasry.it/)
 
@@ -78,7 +78,7 @@ A Linux desktop application published on Snap Store and GitHub, using a Bluetoot
 - [Tag Display](https://wordpress.org/plugins/tag-display/) - displays WordPress tags in five formats, from buttons and tag clouds to inline links, pills and hashtags, with visibility and ordering controls. **Technologies:** WordPress, PHP, Gutenberg Block API, Shortcode API · **License:** GPLv2 or later.
 - [javascript-tools](https://github.com/s7ntech82/javascript-tools) - a public collection of JavaScript tools under the MIT license.
 
-For the full context: [coordinates and roles](./knowledge/profile.en.md) · [tools](./knowledge/capabilities.en.md) · [experience](./knowledge/experience.en.md) · [work and traces](./knowledge/projects.en.md) · [work cycle](./knowledge/work-method.en.md) · [sources](./knowledge/evidence.en.md) · [common questions](./knowledge/faq.en.md)
+For the full context: [Profile and skills](./knowledge/profile.en.md) · [tools](./knowledge/capabilities.en.md) · [experience](./knowledge/experience.en.md) · [work and traces](./knowledge/projects.en.md) · [work cycle](./knowledge/work-method.en.md) · [sources](./knowledge/evidence.en.md) · [common questions](./knowledge/faq.en.md)
 
 ## What I’m testing
 

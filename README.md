@@ -18,11 +18,11 @@ Trasformo idee in prodotti digitali, strumenti utili e mondi interattivi.
 
 > Non parto dalla tecnologia. Parto da ciò che deve diventare possibile, poi costruisco il sistema, l’esperienza e il racconto che lo rendono utilizzabile.
 
-## Mappa del laboratorio
+## In questo profilo
 
-[Coordinate](#coordinate) · [Strumenti in pratica](#strumenti-in-pratica) · [Costellazione di lavori](#costellazione-di-lavori) · [Open source](#open-source) · [Come trasformo un’idea](#come-trasformo-unidea) · [Quello che sto testando](#quello-che-sto-testando)
+[Cosa faccio](#cosa-faccio) · [Strumenti in pratica](#strumenti-in-pratica) · [Progetti](#progetti) · [Open source](#open-source) · [Come trasformo un’idea](#come-trasformo-unidea) · [Quello che sto testando](#quello-che-sto-testando)
 
-## Coordinate
+## Cosa faccio
 
 | Ambito | Cosa porto nel progetto |
 | --- | --- |
@@ -38,7 +38,7 @@ Trasformo idee in prodotti digitali, strumenti utili e mondi interattivi.
 **Shape** - Three.js · WebGL · React Three Fiber · Blender · Unity · esperienze immersive  
 **Tell** - storytelling · brand · fumetti · interfacce narrative
 
-## Costellazione di lavori
+## Progetti
 
 ### [The Ideas Workshop](https://ismailnasry.it/)
 
@@ -78,7 +78,7 @@ Applicazione desktop Linux pubblicata su Snap Store e GitHub, basata su una chia
 - [Tag Display](https://wordpress.org/plugins/tag-display/) - mostra i tag WordPress in cinque formati, da pulsanti e tag cloud a link inline, pill e hashtag, con controllo sulla visibilità e sull’ordinamento. **Tecnologie:** WordPress, PHP, Gutenberg Block API, Shortcode API · **Licenza:** GPLv2 o successiva.
 - [javascript-tools](https://github.com/s7ntech82/javascript-tools) - raccolta pubblica di strumenti JavaScript con licenza MIT.
 
-Per il contesto completo: [coordinate e ruoli](./knowledge/profile.md) · [strumenti](./knowledge/capabilities.md) · [esperienza](./knowledge/experience.md) · [lavori e tracce](./knowledge/projects.md) · [ciclo di lavoro](./knowledge/work-method.md) · [fonti](./knowledge/evidence.md) · [domande frequenti](./knowledge/faq.md)
+Per il contesto completo: [Profilo e competenze](./knowledge/profile.md) · [strumenti](./knowledge/capabilities.md) · [esperienza](./knowledge/experience.md) · [lavori e tracce](./knowledge/projects.md) · [ciclo di lavoro](./knowledge/work-method.md) · [fonti](./knowledge/evidence.md) · [domande frequenti](./knowledge/faq.md)
 
 ## Quello che sto testando
 
