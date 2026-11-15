@@ -16,22 +16,24 @@ I turn ideas into digital products, useful tools and interactive worlds.
 
 </div>
 
-> I do not start with technology. I start with what needs to become possible, then build the system, experience and narrative that make it usable.
+> I start with the idea, the people who will use it and the problem it needs to solve. That guides the experience I design and the tools I choose to build it.
 
 ## In this profile
 
-[What I do](#what-i-do) · [Tools in practice](#tools-in-practice) · [Projects](#projects) · [Open source](#open-source) · [How an idea becomes a product](#how-an-idea-becomes-a-product) · [What I’m testing](#what-im-testing)
+[What I do](#what-i-do) · [Skills and tools](#skills-and-tools) · [Projects](#projects) · [Open source](#open-source) · [How I work](#how-i-work) · [What I’m exploring](#what-im-exploring)
 
 ## What I do
 
-| Area | What I bring to a project |
+| Area | What I work on |
 | --- | --- |
 | Products and web | Full-stack architecture, interfaces, CMS, e-commerce, LMS and SEO. |
 | Applied AI | Prompt design, AI-assisted workflows, automation and multi-model orchestration. |
-| 3D and interaction | WebGL, Three.js, React Three Fiber, Blender, Unity and spatial experiences. |
-| Narrative | Storytelling, branding, comics and content systems with a recognizable direction. |
+| 3D and interaction | WebGL, Three.js, React Three Fiber, Blender, Unity and interactive 3D experiences. |
+| Narrative | Storytelling, brand identity, comics and content design. |
 
-## Tools in practice
+## Skills and tools
+
+In the Lab, these areas are called Build, Imagine, Shape and Tell.
 
 **Build** - React · TypeScript · Laravel · WordPress · PHP · e-commerce · LMS · SEO  
 **Imagine** - AI workflows · multi-model orchestration · automation · digital products  
@@ -40,9 +42,9 @@ I turn ideas into digital products, useful tools and interactive worlds.
 
 ## Projects
 
-### [The Ideas Workshop](https://ismailnasry.it/)
+### [The Ideas Workshop](https://lab.ismailnasry.it/)
 
-An immersive portfolio where content, architecture and interaction share the same space. It is designed as an explorable workshop with thematic environments, guided journeys, experiments and an accessible fallback.
+My 3D portfolio: a workshop where visitors can explore projects and skills, take a guided tour and try interactive experiments. A lightweight 2D version is also available.
 
 ### [Roomify](https://ismailnasry.it/en/project/roomify-ai-interior-design-studio-en/)
 
@@ -50,27 +52,27 @@ AI + 3D interior design: from floor plans and natural language to interactive 3D
 
 ### [SkillUp](https://ismailnasry.it/project/skillup-piattaforma-lms-per-la-formazione-aziendale/)
 
-A project exploring the meeting point between learning, digital platforms and interactive experiences.
+An LMS for corporate training, with quizzes and gamification to support learning.
 
 ### PromptMaster Pro Studio
 
-A studio for coordinating multiple AI models and building structured workflows.
+A workspace for coordinating multiple AI models and organizing the steps of a task.
 
 ### [Dance floor · Ready Player One](https://ismailnasry.it/project/pista-da-ballo-ispirata-a-ready-player-one/)
 
-A personal virtual experience built with Blender, animated tiles, particles and music-synchronized lights.
+A Blender scene inspired by Ready Player One, with animated tiles, particles and lights synchronized to music.
 
 ### [Mate Smart Lock](https://ismailnasry.it/project/mate-smart-lock/)
 
-A Linux desktop application published on Snap Store and GitHub, using a Bluetooth proximity key.
+A Linux application that locks and unlocks the screen based on how close a smartphone is, detected via Bluetooth. Available on Snap Store and GitHub.
 
-## How an idea becomes a product
+## How I work
 
-1. **Understand** - clarify the problem, people, context and constraints.
-2. **Shape** - organize content, data, interactions and responsibilities.
-3. **Build** - choose the right stack and develop a verifiable prototype.
-4. **Test** - check usability, accessibility, performance and coherence.
-5. **Release** - document what was decided and what can evolve.
+1. **Understand** - clarify the problem, who will use the product and the constraints.
+2. **Design** - define the content, data and user journeys.
+3. **Build** - choose the technologies and create an initial version of the core features.
+4. **Test** - check functionality, usability, accessibility and performance.
+5. **Release** - prepare for launch and document decisions, limitations and next steps.
 
 ## Open source
 
@@ -78,20 +80,14 @@ A Linux desktop application published on Snap Store and GitHub, using a Bluetoot
 - [Tag Display](https://wordpress.org/plugins/tag-display/) - displays WordPress tags in five formats, from buttons and tag clouds to inline links, pills and hashtags, with visibility and ordering controls. **Technologies:** WordPress, PHP, Gutenberg Block API, Shortcode API · **License:** GPLv2 or later.
 - [javascript-tools](https://github.com/s7ntech82/javascript-tools) - a public collection of JavaScript tools under the MIT license.
 
-For the full context: [Profile and skills](./knowledge/profile.en.md) · [tools](./knowledge/capabilities.en.md) · [experience](./knowledge/experience.en.md) · [work and traces](./knowledge/projects.en.md) · [work cycle](./knowledge/work-method.en.md) · [sources](./knowledge/evidence.en.md) · [common questions](./knowledge/faq.en.md)
+More about my work: [Profile and skills](./knowledge/profile.en.md) · [tools](./knowledge/capabilities.en.md) · [experience](./knowledge/experience.en.md) · [projects](./knowledge/projects.en.md) · [working process](./knowledge/work-method.en.md) · [sources](./knowledge/evidence.en.md) · [frequently asked questions](./knowledge/faq.en.md)
 
-## What I’m testing
+## What I’m exploring
 
-- Making portfolio and product experiences more spatial, navigable and memorable.
-- Using small interactive experiments to let people experience a method, not just see a screen.
-- Connecting AI, 3D and content into coherent tools instead of isolated demos.
+- Ways to explore content and projects through 3D environments.
+- Small interactive experiments that show how I approach a problem and develop a solution.
+- Applications that combine AI, 3D and content to meet practical needs.
 
-## Let’s build something with a point of view
+## Have a project in mind?
 
-If you have an idea that needs structure, technology and a distinctive experience, [let’s talk](mailto:info@ismailnasry.it).
-
-<div align="center">
-
-*Ideas are only the beginning.*
-
-</div>
+If you want to build a digital product, automate a process or create a 3D experience, [let’s talk](mailto:info@ismailnasry.it).
