@@ -54,7 +54,7 @@ AI + 3D interior design: from floor plans and natural language to interactive 3D
 
 An LMS for corporate training, with quizzes and gamification to support learning.
 
-### PromptMaster Pro Studio
+### [PromptMaster Pro Studio](https://ismailnasry.it/en/project/promptmaster-pro-ai-orchestration-en/)
 
 A workspace for coordinating multiple AI models and organizing the steps of a task.
 

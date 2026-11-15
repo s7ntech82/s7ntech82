@@ -54,7 +54,7 @@ Interior design AI + 3D: dalle planimetrie e dal linguaggio naturale a scene 3D 
 
 Piattaforma LMS per la formazione aziendale, con quiz e gamification a supporto dell’apprendimento.
 
-### PromptMaster Pro Studio
+### [PromptMaster Pro Studio](https://ismailnasry.it/project/promptmaster-pro-studio-orchestrazione-ai-multi-modello/)
 
 Un ambiente di lavoro per coordinare più modelli AI e organizzare i passaggi di un’attività.
 
